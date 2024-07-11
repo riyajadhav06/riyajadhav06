@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajadhav06&label=Profile%20views&color=0e75b6&style=flat" alt="riyajadhav06" /> </p>
 
-- 🌱 I’m currently learning **GEN AI,LLM**
+- 🌱 I’m currently learning   **GEN AI,LLM**
 
 - 📫 How to reach me **riyajadhav0402@gmail.com**
 
